@@ -1,3 +1,4 @@
+
 ## Add a ColorRamp
 
 <div style="display: flex; flex-wrap: wrap">
@@ -27,5 +28,52 @@ It will snap into place and new joins will be made between the Texture, ColorRam
 
 --- /task ---
 
+--- task ---
+
+**Choose** a new colour to replace the white colour.
+
+Click on the white area to the right of the colour bar.
+
+![A screenshot that highlights the white area of the colour bar.](images/white.png)
+
+Click on the block of colour at the bottom of the box.
+
+![A screenshot that highlights the colour block at the bottom of the box.](images/colour-block.png)
+
+Click on the colour wheel to choose a different colour.
+
+![A screenshot that highlights an area of the colour wheel.](images/colour-wheel.png)
+
+--- /task ---
+
+--- task ---
+
+**Choose** a new colour to replace the black colour.
+
+**Tip**: The colour black has RGB values of 0, 0, 0 so the colour wheel will be black. To see additional colours, drag the RGB values to the right.
+
+![A short animation showing the RGB values being increased using the sliders.](images/rgb-sliders.gif)
+
+--- /task ---
+
+--- task ---
+
+**Add** an additional colour by clicking the '+' button above the colour bar.
+
+**Tip**: You can adjust the amount of colour used by dragging the paint pots left and right until you are happy.
+
+![A short animation showing the paint pots being dragged from left to right across the colour bar.](images/paint-pots.gif)
+
+--- /task ---
+
+--- task ---
+
+**Design**: Continue to add more colours until you are happy with the colour effects on your marble.
+
+![An example version of how the marble effect may look. A full rainbow palette has been used.](images/step4-output.png)
+
+**Tip**: If you wish to remove a paint pot then click the '-' button. This will remove the selected pot. 
+
+--- /task ---
 
 --- save ---
