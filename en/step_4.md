@@ -1,4 +1,3 @@
-
 ## Add a ColorRamp
 
 <div style="display: flex; flex-wrap: wrap">
