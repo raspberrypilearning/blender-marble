@@ -26,3 +26,48 @@ Go to 'Add' > 'Texture' and **choose** a texture that you would like to use. Thi
 ![A texture is added using 'Add' > 'Texture' menu.](images/add-texture.png)
 
 --- /task ---
+
+--- task ---
+
+Place your new texture window to the left of the 'Principled BSDF' box. 
+
+![The 'Noise Texture' box has been placed to the left of the 'Principled BSDF' box.](images/texture-left.PNG)
+
+**Tip**: The new texture window clings to your mouse until you have clicked it into place.
+
+--- /task ---
+
+--- task ---
+
+Join the texture **Color** to the **Base color** of the Principled BSDF.
+
+![A short animation showing the 'Color' property in the Texture box being dragged to join the 'Base color' property in the Principled BSDF box.](images/join.gif)
+
+**Tip**: Click and drag from the dot next to 'Color' to the dot next to 'Base color'.
+
+--- /task ---
+
+--- task ---
+
+Notice 👀 that the texture on the sphere has now changed. 
+
+![A multi-coloured effect has been added to the sphere.](images/colour-sphere.PNG)
+
+**Tip**: If you chose a different texture then your sphere might look different to this image.
+
+--- /task ---
+
+--- task ---
+
+Adjust the Vector settings until you are happy with the look of your texture. 
+
+![The vector settings on the 'Texture' box are highlighted.](images/vector-settings.png)
+
+**Tip**: You can drag your mouse from left to right on each value to slide the values and select smaller or larger numbers.
+
+![The mouse is used to drag the vector settings from left to right and increase or decrease the value.](images/drag.gif)
+
+--- /task ---
+
+--- save ---
+

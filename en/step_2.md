@@ -106,4 +106,12 @@ title: Changing your view in Blender
 
 --- /task ---
 
+--- task ---
+
+Go to 'File' > 'Save As' and save your file as 'marble.blend'.
+
+![The Save As window with the filename and 'Save As' buttons highlighted.](images/save-as.png)
+
+--- /task ---
+
 
