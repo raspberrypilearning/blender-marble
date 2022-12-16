@@ -11,8 +11,21 @@ Add a **ColorRamp** and adjust the colours to personalise your marble.
 
 --- task ---
 
+Go to 'Add' > 'Converter' > 'ColorRamp'
 
+![A screenshot of the Add menu. Convertor and ColorRamp are highlighted.](images/add-color-ramp.png)
 
 --- /task ---
+
+--- task ---
+
+Place the 'ColorRamp' box to the right of your texture box. 
+
+It will snap into place and new joins will be made between the Texture, ColorRamp and Principled BSDF boxes.
+
+![A screenshot of ColorRamp box sitting between the Texture and Principled BSDF boxes.](images/color-ramp.png)
+
+--- /task ---
+
 
 --- save ---
