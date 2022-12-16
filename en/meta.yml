@@ -10,7 +10,7 @@ steps:
   - title: You will make
   - title: Create the marble object
   - title: Add a texture
-  - title: Step title
+  - title: Add a ColorRamp
   - title: Quick quiz
     knowledge_quiz:
       path: quiz1
