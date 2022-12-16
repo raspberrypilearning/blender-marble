@@ -13,5 +13,7 @@ You will:
 
 ### Finished marble
 
-![A finished marble in Blender.](images/finished_marble.png)
+![A finished marble in Blender.](images/step4-output.png)
+
+You will have lots of opportunities to personalise your marble to get it just right!
 
