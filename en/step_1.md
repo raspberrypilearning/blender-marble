@@ -8,8 +8,8 @@ In this project, you will make a marble in Blender and create materials that wra
 
 You will:
 + Use a **UV Sphere** object to create a marble
-+ Add a material to your marble
-+ Adjust the colour effects of the marble to personalise it
++ Add a **material** to your marble
++ Adjust the colour **effects** of the marble to personalise it
 
 ### Finished marble
 

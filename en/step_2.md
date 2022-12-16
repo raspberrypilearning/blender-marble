@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create the marble object using a **UV sphere** and set the opacity to 0.
+Create the marble object using a **UV sphere** and set the World Opacity to 0.
 </div>
 <div>
 ![The output of step 2.](images/step2-output.PNG){:width="300px"}
