@@ -5,7 +5,7 @@
 Create the marble object using a **UV sphere** and set the opacity to 0.
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![The output of step 2.](images/step2-output.PNG){:width="300px"}
 </div>
 </div>
 
