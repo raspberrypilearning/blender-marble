@@ -9,11 +9,11 @@ Create an image of your **texture** so that you can use it with other objects an
 </div>
 </div>
 
-Your textured marble is now complete. This step will show you how to save the texture that you have made so that you can use it on other objects and projects.
+### Create a blank image
 
 --- task ---
 
-Go to the 'Image Viewer' menu on the left hand side. Click on '+ New' and give your image a sensible name like `MyTexture`.
+Go to the 'Image Viewer' menu in the bottom-left of the Shading editor. Click on '+ New' and give your image a sensible name like `MyTexture`.
 
 Click OK and the area will become black. 
 
@@ -39,23 +39,35 @@ Place the 'Image Texture' box away from your other boxes.
 
 --- task ---
 
-Click on the 'Browse Image' icon and add the image that you just created. You may have named this `MyTexture`.
+Go to your new Image Texture box and click on the 'Browse Image' icon. 
+
+Select the image that you just created. You may have named this `MyTexture`.
 
 ![A screenshot showing the 'Browse Image' icon with the 'MyTexture' image selected.](images/add-mytexture.png)
 
 --- /task ---
 
+### Bake your material onto the image
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Texture baking**</span> is the process of taking complex surface data from a 3D object and saving it to a 2D texture image. The image can then be used on another 3D object or even exported to be used in another software.
+
+![A strip of images showing a texture on a sphere then as a flat image and then transferred to cube, cylinder, and cone objects.](images/render-engine.png)
+</p>
+
 --- task ---
 
 Go to the 'Render Properties' tab on the right-hand side. 
 
-Change the 'Render Engine' to 'Cycles'.
+To allow baking, change the 'Render Engine' to 'Cycles'.
 
 ![A screenshot showing the 'Render Properties' tab and the 'Render Engine' option being changed to 'Cycles'.](images/render-engine.png)
 
 --- /task ---
 
 --- task ---
+
+The most common type of baking used to create textures is **Diffuse baking**. 
 
 Expand the 'Bake' menu in the 'Render Properties' tab and change the 'Bake Type' to 'Diffuse'.
 
@@ -65,7 +77,7 @@ Expand the 'Bake' menu in the 'Render Properties' tab and change the 'Bake Type'
 
 --- task ---
 
-Untick 'Direct' and 'Indirect' with the 'Bake' area of the 'Render Properties' tab.
+In the 'Bake' menu, untick 'Direct' and 'Indirect' lighting influences.
 
 ![A screenshot showing the 'Direct' and 'Indirect' boxes unticked.](images/untick.png)
 
@@ -85,7 +97,7 @@ Click on 'Bake'.
 
 --- task ---
 
-You can now save this texture as an image by going to the drop-down with the three lines, choosing 'Image' and then choosing 'Save As'.
+You can now save this texture as an image, go to the drop-down with the three lines, choose 'Image' and then 'Save As'.
 
 ![A screenshot showing the menu with three lines leading to the 'Image' option with the 'Save As' option highlighted.](images/save-texture.png)
 
