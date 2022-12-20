@@ -9,6 +9,8 @@ Create a marble using a **UV sphere** object and add a material.
 </div>
 </div>
 
+### Set up your project
+
 --- task ---
 
 Open Blender. Click outside the **splash screen** to close it: 
