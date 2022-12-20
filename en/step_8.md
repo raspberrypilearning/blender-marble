@@ -9,7 +9,9 @@ Our [Blender basics](https://projects.raspberrypi.org/en/pathways/blender-basics
 Your browser does not support WebM video, try FireFox or Chrome
 </video>
 
-**Tip:** In this path you will create a snowman, trees, a car, a house, and a rocket. Think about how you could use Array modifiers to create a row of houses or a car park full of cars. 
+**Tip:** In this path you will create a snowman, trees, a car, a house, and a rocket. Think about how you could use your new material:
+
+![A rocket and a tree side by side. Each is partially coloured by the new material.](images/other-objects.png)
 
 ### More Unity path
 
@@ -37,7 +39,7 @@ Unity projects already have a light source. Scroll to the bottom of the list of 
 
 --- task ---
 
-If you haven't already saved your texture as an image, go to the drop-down with the three lines, choose 'Image' and then 'Save As'.
+If you haven't already saved your texture as an image, go to the drop-down with the three lines, choose 'Image' and then 'Save As':
 
 ![A screenshot showing the menu with three lines leading to the 'Image' option with the 'Save As' option highlighted.](images/save-texture.png)
 
