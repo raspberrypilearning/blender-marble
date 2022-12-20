@@ -2,30 +2,35 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Summary or upgrade project task
+Experiment with other textures, colours and shapes
 </div>
 <div>
 ![](images/image.png){:width="300px"}
 </div>
 </div>
 
---- collapse ---
----
-title: Use the saved texture image in a Unity project
----
+--- task ---
 
+Add different textures and experiment with the order and joins to see what patterns you can create.
 
+You could try the 'Wave texture':
 
---- /collapse ---
+![A 3D sphere with colourful ColorRamp and Wave texture boxes.](images/wave-texture.png)
 
---- collapse ---
+Or the 'Brick texture':
 
----
-title: Completed project
----
+![A 3D sphere with colourful ColorRamp and Brick texture boxes.](images/brick-texture.png)
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Or both together!
 
---- /collapse ---
+![A 3D sphere with colourful ColorRamp and both Wave and Brick texture boxes.](images/both-textures.png)
+
+--- /task ---
+
+--- task ---
+
+Don't forget to bake and save your images so that you can reuse them later.
+
+--- /task ---
 
 --- save ---
