@@ -19,9 +19,11 @@ Pull up the material window to give you a better view of the material settings.
 
 --- /task ---
 
+### Create a Noise texture
+
 --- task ---
 
-Go to 'Add' > 'Texture' and **choose** a texture that you would like to use. This project uses the 'Noise Texture'.
+Go to 'Add' > 'Texture' and select 'Noise Texture'.
 
 ![A texture is added using 'Add' > 'Texture' menu.](images/add-texture.png)
 
@@ -29,17 +31,17 @@ Go to 'Add' > 'Texture' and **choose** a texture that you would like to use. Thi
 
 --- task ---
 
-Place your new texture window to the left of the 'Principled BSDF' box. 
+Place your new Noise texture window to the left of the 'Principled BSDF' box. 
 
 ![The 'Noise Texture' box has been placed to the left of the 'Principled BSDF' box.](images/texture-left.PNG)
 
-**Tip**: The new texture window clings to your mouse until you have clicked it into place.
+**Tip**: The new Noise texture window clings to your mouse until you have clicked it into place.
 
 --- /task ---
 
 --- task ---
 
-Join the texture **Color** to the **Base color** of the Principled BSDF.
+Join the Noise texture **Color** to the **Base color** of the Principled BSDF.
 
 ![A short animation showing the 'Color' property in the Texture box being dragged to join the 'Base color' property in the Principled BSDF box.](images/join.gif)
 
@@ -49,17 +51,47 @@ Join the texture **Color** to the **Base color** of the Principled BSDF.
 
 --- task ---
 
-Notice 👀 that the texture on the sphere has now changed. 
+Notice 👀 that the material on the sphere has now changed. 
 
 ![A multi-coloured effect has been added to the sphere.](images/colour-sphere.PNG)
 
-**Tip**: If you chose a different texture then your sphere might look different to this image.
+--- /task ---
+
+### Combine textures
+
+--- task ---
+
+A material can use more than one texture. 
+
+Go to 'Add' > 'Texture' and this time select 'Musgrave Texture'.
+
+![The vector settings on the 'Texture' box are highlighted.](images/vector-settings.png)
 
 --- /task ---
 
 --- task ---
 
-Adjust the Vector settings until you are happy with the look of your texture. 
+Place your new Musgrave texture window to the left of the 'Noise texture' box. 
+
+![The 'Noise Texture' box has been placed to the left of the 'Principled BSDF' box.](images/texture-left.PNG)
+
+--- /task ---
+
+--- task ---
+
+Join the Musgrave texture **Height** to the **Vctor** of the Noise texture.
+
+![A short animation showing the 'Color' property in the Texture box being dragged to join the 'Base color' property in the Principled BSDF box.](images/join.gif)
+
+**Tip**: Click and drag from the dot next to 'Height' to the dot next to 'Vector'.
+
+--- /task ---
+
+### Customise your material
+
+--- task ---
+
+Adjust the Vector settings in the Musgrave and Noise textures until you are happy with the look of your marble. 
 
 ![The vector settings on the 'Texture' box are highlighted.](images/vector-settings.png)
 
