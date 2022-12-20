@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add a texture to your marble.
+Design and add a texture to your marble.
 </div>
 <div>
 ![Step three output.](images/step3-output.png){:width="300px"}

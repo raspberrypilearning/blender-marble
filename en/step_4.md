@@ -25,6 +25,8 @@ It will snap into place and new joins will be made between the Texture, ColorRam
 
 ![A screenshot of ColorRamp box sitting between the Texture and Principled BSDF boxes.](images/color-ramp.png)
 
+**Tip:** If you accidentally place your ColorRamp in a place where it doesn't automatically snap into place you can click and hold the left mouse button to pick it up again then drag it into position. 
+
 --- /task ---
 
 --- task ---

@@ -1,8 +1,8 @@
-## Create the marble object
+## Create a marble 
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create the marble object using a **UV sphere** and set the World Opacity to 0.
+Create a marble using a **UV sphere** object and add a material.
 </div>
 <div>
 ![The output of step 2.](images/step2-output.PNG){:width="300px"}
@@ -11,27 +11,13 @@ Create the marble object using a **UV sphere** and set the World Opacity to 0.
 
 --- task ---
 
-Open Blender. Click outside the **splash screen** to close it. 
+Open Blender. Click outside the **splash screen** to close it: 
 
-![Splash screen popup.](images/blender-first.PNG){:width="300px"}
+![Splash screen popup.](images/splash-screen.png)
 
-A **Cube** object has been created for you. The cube has an orange border to show it is the selected object.
+A **Cube** object has been created for you. The cube has an orange border to show it is the selected object:
 
-![A 3D cube shown in the Object view. The Cube object is also highlighted in the Scene Collection window.](images/blender-windows.PNG){:width="300px"}
-
---- /task ---
-
---- task ---
-
-For this project, you need to enable the **Node Wrangler**. 
-
-Go to the menu and choose 'Edit' > 'Preferences'.
-
-Now select 'Add-ons' and search for 'node'.
-
-Tick the box next to 'Node: Node Wrangler' then close the Preferences window.
-
-![The Blender Preferences window with the 'Node: Node Wrangler' box ticked.](images/node-wrangler.png)
+![A 3D cube shown in the Object view. The Cube object is also highlighted in the Scene Collection window.](images/starter-cube.png)
 
 --- /task ---
 
@@ -41,17 +27,33 @@ Click on the **cube** and press **delete** on your keyboard. This will give you 
 
 ![The Blender environment is now empty because the cube has been deleted.](images/no-cube.PNG)
 
-**Tip**: The icons in Blender are very small. If you hover over them with your mouse then you will get a tool tip to show you the name of the tool. 
-
 **Tip**: You can also right-click on the cube and choose 'Delete' to delete the cube.
 
 --- /task ---
 
 --- task ---
 
-Add a new **UV Sphere** by going to 'Add' > 'Mesh' > 'UV Sphere'.
+For this project, you need to enable the **Node Wrangler**. 
+
+Go to the 'Edit' menu then choose 'Preferences'.
+
+Now select 'Add-ons' and search for 'node'.
+
+Tick the box next to 'Node: Node Wrangler' then close the Preferences window.
+
+![The Blender Preferences window with the 'Node: Node Wrangler' box ticked.](images/node-wrangler.png)
+
+--- /task ---
+
+### Create a marble
+
+--- task ---
+
+Add a new **UV Sphere** by going to 'Add' -> 'Mesh' -> 'UV Sphere'.
 
 ![The add menu in Blender with Mesh and UV Sphere highlighted.](images/add-uv-sphere.png)
+
+**Tip**: The icons in Blender are very small. If you hover over them with your mouse then you will get a tool tip to show you the name of the tool. 
 
 --- /task ---
 
@@ -65,17 +67,21 @@ With the Sphere selected, go to the 'Material Properties' tab and click 'New' to
 
 --- /task ---
 
+### Open the Shading editor
+
 --- task ---
 
-Go to the menu at the top of the screen and choose 'Shading'. This will change the view of your project.
+The Blender Shading editor lets you work with and view materials. 
 
-![An arrow points to the 'Shading' menu option at the top of the screen. The view has changed to the shading view.](images/shading-layout.png)
+Go to the menu at the top of the screen and choose 'Shading'. This will open the Shading editor.
+
+![An arrow points to the 'Shading' menu option at the top of the screen. The view has changed to the shading editor.](images/shading-layout.png)
 
 --- /task ---
 
 --- task ---
 
-Go to the 'Viewport Shading' dropdown and change the 'World Opacity' to '0. 
+To focus entirely on the sphere, go to the 'Viewport Shading' dropdown and change the 'World Opacity' to `0`. 
 
 ![The 'Viewport Shading' dropdown has been selected and the 'World Opacity' has been changed to 0.](images/viewport-shading.png)
 
