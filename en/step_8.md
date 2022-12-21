@@ -53,6 +53,6 @@ Open your Unity project and from the **Assets** menu select **Import New Asset..
 
 Your texture will appear in the **Project window**. You can drag it onto a 3D object in the Scene view or the Inspector use it in your Unity project:
 
-![The Unity editor with texture asset shown in the Project window at the bottom of the editor and on a 3D object in the Scene view above.](images/unity-floor.png)
+![The Unity editor with MyTexture asset shown in the Project window at the bottom of the editor and on a 3D object in the Scene view above.](images/unity-marble.png)
 
 --- /task ---
