@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Design and add a texture to your marble.
+Use **procedural textures** to design your marble material.
 </div>
 <div>
 ![Step three output.](images/step3-output.png){:width="300px"}
@@ -20,14 +20,14 @@ Pull up the material window to give you a better view of the material settings:
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**procedural texture**</span> is a texture that has been generated using a set of mathematical rules. Procedureal textures are used to make high quality, scalable textures that can be added to any surface and still fit together perfectly at the edges. 
+A <span style="color: #0faeb0">**procedural texture**</span> is a texture that has been generated using a set of mathematical rules. Procedureal textures are used to make high quality, easily editable, scalable textures that can be added to any surface and still fit together perfectly at the edges. 
 </p>
 
 ### Create a Noise texture
 
 --- task ---
 
-Go to 'Add' > 'Texture' and select 'Noise Texture':
+Go to 'Add' -> 'Texture' and select 'Noise Texture':
 
 ![A texture is added using 'Add' > 'Texture' menu.](images/add-texture.png)
 
@@ -67,7 +67,7 @@ Notice 👀 that the material on the sphere has now changed:
 
 A material can use more than one texture. 
 
-Go to 'Add' > 'Texture' and this time select 'Musgrave Texture':
+Go to 'Add' -> 'Texture' and this time select 'Musgrave Texture':
 
 ![A texture is added using 'Add' > 'Texture' menu.](images/musgrave-texture.png)
 
@@ -77,7 +77,7 @@ Go to 'Add' > 'Texture' and this time select 'Musgrave Texture':
 
 Place your new Musgrave texture window to the left of the 'Noise texture' box:
 
-![The 'Musgrave Texture' box has been placed to the left of the 'Noise texture' box.](images/musgrave-left.PNG)
+![The 'Musgrave Texture' box has been placed to the left of the 'Noise texture' box.](images/musgrave-left.png)
 
 --- /task ---
 
@@ -95,7 +95,7 @@ Join the Musgrave texture **Height** to the **Vector** of the Noise texture:
 
 Notice 👀 that the material on the sphere has again changed:
 
-![A new multi-coloured effect has been added to the sphere.](images/musgrave-sphere.PNG)
+![A new multi-coloured effect has been added to the sphere.](images/musgrave-sphere.png)
 
 --- /task ---
 

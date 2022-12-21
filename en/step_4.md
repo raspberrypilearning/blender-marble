@@ -9,9 +9,11 @@ Add a **ColorRamp** and adjust the colours to personalise your marble.
 </div>
 </div>
 
+### Add a ColorRamp
+
 --- task ---
 
-Go to 'Add' > 'Converter' > 'ColorRamp':
+Go to 'Add' -> 'Converter' -> 'ColorRamp':
 
 ![A screenshot of the Add menu. Convertor and ColorRamp are highlighted.](images/add-color-ramp.png)
 
@@ -28,6 +30,8 @@ It will snap into place and new joins will be made between the Noise Texture, Co
 **Tip:** If you accidentally place your ColorRamp in a place where it doesn't automatically snap into place you can click and hold the left mouse button to pick it up again then drag it into position. 
 
 --- /task ---
+
+### Change the colours
 
 --- task ---
 
@@ -57,11 +61,15 @@ Click on the colour wheel to choose a different colour:
 
 --- /task ---
 
+### Customise your colours
+
 --- task ---
 
-**Add** an additional colour by clicking the '+' button above the colour bar.
+**Add** an additional colour by clicking the '+' button above the colour bar:
 
-**Tip**: You can adjust the amount of colour used by dragging the paint pots left and right until you are happy:
+![A screenshot of the ColorRamp with plus sign highlighted above the colour bar.](images/colour-add.png)
+
+**Tip**: Adjust the amount of colour used by dragging the paint pots left and right until you are happy:
 
 ![A short animation showing the paint pots being dragged from left to right across the colour bar.](images/paint-pots.gif)
 

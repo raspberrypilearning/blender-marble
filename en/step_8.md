@@ -19,6 +19,8 @@ The marble texture from this **Blender - Add material effects to a marble** proj
 
 <mark>Embed webGL of Explore project with marble</mark>
 
+**Tip:** If you have not used Unity before you can start with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro) path to make 3D worlds with quests and games.
+
 ### Export your texture for use in Unity projects
 
 --- task ---

@@ -5,37 +5,31 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say hello in a speech bubble.
-
-```blocks3
-say [Hello!] for [2] secs
-```
-
-Where would you go to find this block?
+What is the process of taking information from a material to store in an image called in Blender? 
 
 --- choices ---
 
-- (x) 
+- ( ) Musgrave
 
   --- feedback ---
+
+    Not quite, you used a Musgrave texture to customise your marble. Hint: What process did you use after you had finished your design? 
 
   --- /feedback ---
 
-- ( ) 
+- (x) Bake
 
   --- feedback ---
+
+  That's right, baking is taking data and storing the result. In this case taking data from the material and storing the result in an image.
 
   --- /feedback ---
 
-- ( ) 
+- ( ) ColorRamp
 
   --- feedback ---
 
-  --- /feedback ---
-
-- ( ) 
-
-  --- feedback ---
+  Not quite, you used a ColorRamp to recolor textures by adding to and adjusting the colours used. Hint: What process did you use after you had finished your design? 
 
   --- /feedback ---
 
