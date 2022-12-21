@@ -25,7 +25,7 @@ Give your image a sensible name like `MyTexture` and click OK to create the blac
 
 --- task ---
 
-**Add** a new **Image Texture** by going to 'Add' > 'Texture' > 'Image Texture':
+**Add** a new **Image Texture** by going to 'Add' -> 'Texture' -> 'Image Texture':
 
 ![A screenshot of the Add menu. Texture and Image Texture are highlighted.](images/image-texture.png)
 
@@ -52,7 +52,7 @@ Select the image that you just created. You may have named this `MyTexture`:
 ### Bake your material onto the image
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Texture baking**</span> is the process of taking complex surface data from a 3D object and saving it to a 2D texture image. The image can then be used on another 3D object or even exported to be used in another software.
+<span style="color: #0faeb0">**Texture baking**</span> is the process of taking complex surface data from a 3D object and saving it to a 2D image. The image can then be used on another 3D object or even exported to be used in another software.
 
 ![A strip of images showing a texture on a sphere then as a flat image and then transferred to cube, cylinder, and cone objects.](images/texture-baking.png)
 </p>

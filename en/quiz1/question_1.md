@@ -1,10 +1,10 @@
 ## Reflection
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Answer these three questions to get your ‘Blender - Add material effects to a marble’ badge.
 
-Answer the three questions below to reflect on what you've learned.
+There are hints to guide you to the correct answer.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+When you have answered each question, click on **Check my answer**.
 
 Have fun!
 
@@ -14,30 +14,39 @@ Have fun!
 legend: Question 1 of 3
 ---
 
+Procedural textures are created by mathematical rules but why are they used in 3D modelling?
 
 --- choices ---
 
-- ( )
+- ( ) They are scalable
 
   --- feedback ---
+
+  It's true that they are scalable so can be used on large or small objects without loss of quality - but that is not the only reason. 
 
   --- /feedback ---
 
-- ( )
+- ( ) They can cover any surface shape
 
   --- feedback ---
+
+  It's true that they can cover any surface regardless of shape - but that is not the only reason. 
 
   --- /feedback ---
 
-- (x) 
+- ( ) They are easily editable
 
   --- feedback ---
+
+  It's true that they can be quickly edited to change their whole appearance - but that is not the only reason. 
 
   --- /feedback ---
 
-- ( ) 
+- (x) All of the above
 
   --- feedback ---
+
+  That's correct. Procedural textures are scalable, can cover any surface and are easy to edit. 
 
   --- /feedback ---
 
