@@ -8,7 +8,7 @@ You will:
 + **Bake** your material to a texture image and reuse it
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-One use of <span style="color: #0faeb0">**Blender**</span> is by 🇧🇷 Brazillian 3D Designer Cicero Moraes who works with a team of vets and a dental surgeon to create life-saving 3D printed prosetics for animals. 
+One use of <span style="color: #0faeb0">**Blender**</span> is by Brazillian 3D Designer Cicero Moraes who works with a team of vets and a dental surgeon to create life-saving 3D printed prosetics for animals. 
 
 They have helped animals like 🐢 Freddy the tortoise who had a shell that was severely damaged by fire. 🐕 Puppies Zeus, who lost a foot after a vicious attack, and Hannah, who was unable to eat after loss of a tooth. Plus 🦜 several toucans, a goose, and a macaw with deformed beaks or beaks damaged in accidents. 
 </p>
