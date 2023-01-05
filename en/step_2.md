@@ -91,7 +91,7 @@ To make it easier to focus on your material. Go to the 'Viewport Shading' dropdo
 
 --- task ---
 
-To see the shading effect, adjust the view of your sphere so that it is zoomed in and rotated up slightly:
+To see the shading effect, adjust the view of your sphere so that it is 🔎 zoomed in and 🔄 rotated up slightly:
 
 ![The sphere is larger and rotated up.](images/step2-output.PNG)
 
@@ -119,6 +119,8 @@ title: Zoom and rotate in Blender
 Go to 'File' -> 'Save As' and save your file as 'marble.blend':
 
 ![The Save As window with the filename and 'Save As' buttons highlighted.](images/save-as.png)
+
+**Tip:** You can reopen a saved Blender project using ‘File’ -> ‘Open’.
 
 --- /task ---
 
