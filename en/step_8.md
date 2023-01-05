@@ -2,7 +2,7 @@
 
 ### Blender animation path
 
-Our [Blender basics](https://projects.raspberrypi.org/en/pathways/blender-basics) path covers how to create, animates and render 3D objects and scenes to make a Snow scene animation:
+Our [Blender basics](https://projects.raspberrypi.org/en/pathways/blender-basics) path covers how to create, animate and render 3D objects and scenes to make a Snow scene animation:
 
 <video width="560" height="315" controls>
 <source src="resources/snow-scene-rendered.mkv" type="video/mp4">
@@ -25,7 +25,7 @@ The marble texture from this **Blender - Add material effects to a marble** proj
 
 --- task ---
 
-Unity projects already have a camera. Go to the **Scene Collection** pane and right-click on the 🎥 Camera then select **Delete**: 
+Unity projects already have a camera. Go to the **Scene Collection** pane and right-click on the 🎥 Camera then select 'Delete': 
 
 ![The 'Camera' is selected in the 'Scene Collection' pane. Right-click has been used on the camera to open a new menu. 'Delete' is highlighted.](images/delete-camera.png)
 
@@ -33,7 +33,7 @@ Unity projects already have a camera. Go to the **Scene Collection** pane and ri
 
 --- task ---
 
-Unity projects already have a light source. Scroll to the bottom of the list of objects in the **Scene Collection** and right-click on the 💡 Light then select **Delete**:
+Unity projects already have a light source. Go to the **Scene Collection** pane and right-click on the 💡 Light then select 'Delete':
 
 ![The 'Light' is selected in the 'Scene Collection' pane. Right-click has been used on the Light to open a new menu. 'Delete' is highlighted.](images/delete-light.png)
 

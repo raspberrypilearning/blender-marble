@@ -13,7 +13,7 @@ True or False: A material can only have one texture?
 
   --- feedback ---
 
-  Not quite, you used two textures (noise and musgrave) in your material and you could add even more.
+  Not quite, you used two textures (Noise Texture and Musgrave Texture) in your material - and you could add even more.
 
   --- /feedback ---
 

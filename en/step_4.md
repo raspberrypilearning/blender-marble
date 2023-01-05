@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add a **ColorRamp** and adjust the colours to personalise your marble.
+Add a **ColorRamp**. Adjust the colours to personalise your marble.
 </div>
 <div>
 ![Output of step 4.](images/step4-output.png){:width="300px"}
@@ -21,13 +21,13 @@ Go to 'Add' -> 'Converter' -> 'ColorRamp':
 
 --- task ---
 
-Place the 'ColorRamp' box to the right of your Noise texture box. 
+Place the **ColorRamp** box to the right of your **Noise texture** box. 
 
 It will snap into place and new joins will be made between the Noise Texture, ColorRamp and Principled BSDF boxes:
 
 ![A screenshot of ColorRamp box sitting between the Texture and Principled BSDF boxes.](images/color-ramp.png)
 
-**Tip:** If you accidentally place your ColorRamp in a place where it doesn't automatically snap into place you can click and hold the left mouse button to pick it up again then drag it into position. 
+**Tip:** If you accidentally place your ColorRamp where it doesn't automatically snap into place you can pick it up again. Click and hold the left mouse button then drag it into position. 
 
 --- /task ---
 
@@ -69,19 +69,19 @@ Click on the colour wheel to choose a different colour:
 
 ![A screenshot of the ColorRamp with plus sign highlighted above the colour bar.](images/colour-add.png)
 
-**Tip**: Adjust the amount of colour used by dragging the paint pots left and right until you are happy:
+**Tip**: Drag the coloured markers left and right to adjust the colour. Move each marker until you are happy with the effect:
 
-![A short animation showing the paint pots being dragged from left to right across the colour bar.](images/paint-pots.gif)
+![A short animation showing the coloured markers being dragged from left to right across the colour bar.](images/paint-pots.gif)
 
 --- /task ---
 
 --- task ---
 
-**Design**: Continue to add more colours until you are happy with the colour effects on your marble:
+**Design**: Continue to add more colours until you are happy with your marble:
 
 ![An example version of how the marble effect may look. A full rainbow palette has been used.](images/step4-output.png)
 
-**Tip**: If you wish to remove a paint pot then click the '-' button. This will remove the selected pot. 
+**Tip**: If you wish to remove a colour marker. Select the marker then click the '-' button.
 
 --- /task ---
 
