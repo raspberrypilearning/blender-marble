@@ -25,7 +25,7 @@ A **Cube** object has been created for you. The cube has an orange outline to sh
 
 --- task ---
 
-Click on the **Cube** and press <kbd>**Delete**</kbd> on your keyboard. This will give you an empty document to add in your sphere:
+Click on the **Cube** and press **<kbd>Delete</kbd>** on your keyboard. This will give you an empty document to add in your sphere:
 
 ![The Blender environment is now empty because the cube has been deleted.](images/no-cube.PNG)
 
@@ -55,7 +55,7 @@ Add a new **UV Sphere** by going to 'Add' -> 'Mesh' -> 'UV Sphere':
 
 ![The add menu in Blender with Mesh and UV Sphere highlighted.](images/add-uv-sphere.png)
 
-**Tip**: The icons in Blender are very small. If you hover over them with your mouse then you will get a tool tip to show you the name of the tool. 
+**Tip**: The icons in Blender are very small. Hover over them with your mouse to see a tool tip with the name of the tool. 
 
 --- /task ---
 

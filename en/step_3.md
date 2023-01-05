@@ -35,11 +35,11 @@ Go to 'Add' -> 'Texture' and select 'Noise Texture':
 
 --- task ---
 
-Place your new **Noise texture** window to the left of the 'Principled BSDF' box:
+Place your new **Noise texture** box to the left of the 'Principled BSDF' box:
 
 ![The 'Noise Texture' box has been placed to the left of the 'Principled BSDF' box.](images/texture-left.PNG)
 
-**Tip**: The new Noise texture window clings to your mouse until you have clicked it into place.
+**Tip**: The new Noise texture box clings to your mouse until you have clicked it into place.
 
 --- /task ---
 
@@ -75,7 +75,7 @@ Go to 'Add' -> 'Texture' and this time select 'Musgrave Texture':
 
 --- task ---
 
-Place your new **Musgrave texture** window to the left of the **Noise texture** box:
+Place your new **Musgrave texture** box to the left of the **Noise texture** box:
 
 ![The 'Musgrave Texture' box has been placed to the left of the 'Noise texture' box.](images/musgrave-left.png)
 
@@ -103,7 +103,7 @@ Notice 👀 that the material on the sphere has again changed:
 
 --- task ---
 
-Adjust the 'Vector' settings in the **Musgrave Texture** and **Noise texture** until you are happy with the look of your marble:
+Adjust the 'Vector' settings in the **Musgrave Texture** and **Noise texture** boxes until you are happy with the look of your marble:
 
 ![The vector settings on the 'Texture' box are highlighted.](images/vector-settings.png)
 
