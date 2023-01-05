@@ -1,6 +1,6 @@
 ## You will make
 
-Use Blender to design and create a marble.
+Use Blender to design and create a marble. Blender is a free and open source 3D creation package for designers, engineers and artists. 
 
 You will:
 + Use a **UV Sphere** object to create a marble
