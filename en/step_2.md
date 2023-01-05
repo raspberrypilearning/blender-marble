@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create a marble using a **UV sphere** object and add a material.
+Create a marble using a **UV sphere** object. Add a new material to the sphere.
 </div>
 <div>
 ![The output of step 2.](images/step2-output.PNG){:width="300px"}
@@ -17,7 +17,7 @@ Open Blender. Click outside the **splash screen** to close it:
 
 ![Splash screen popup.](images/splash-screen.png)
 
-A **Cube** object has been created for you. The cube has an orange border to show it is the selected object:
+A **Cube** object has been created for you. The cube has an orange outline to show it is the selected object:
 
 ![A 3D cube shown in the Object view. The Cube object is also highlighted in the Scene Collection window.](images/starter-cube.png)
 
@@ -25,7 +25,7 @@ A **Cube** object has been created for you. The cube has an orange border to sho
 
 --- task ---
 
-Click on the **cube** and press **delete** on your keyboard. This will give you an empty document to add in your sphere:
+Click on the **Cube** and press <kbd>**Delete**</kbd> on your keyboard. This will give you an empty document to add in your sphere:
 
 ![The Blender environment is now empty because the cube has been deleted.](images/no-cube.PNG)
 
@@ -39,7 +39,7 @@ For this project, you need to enable the **Node Wrangler**.
 
 Go to the 'Edit' menu then choose 'Preferences'.
 
-Now select 'Add-ons' and search for 'node'.
+Now select 'Add-ons' and search for `node`.
 
 Tick the box next to 'Node: Node Wrangler' then close the Preferences window:
 
@@ -61,11 +61,11 @@ Add a new **UV Sphere** by going to 'Add' -> 'Mesh' -> 'UV Sphere':
 
 --- task ---
 
-With the Sphere selected, go to the 'Material Properties' tab and click 'New' to add a new material to your sphere:
+With the **Sphere** selected, go to the 'Material Properties' tab. Click 'New' to add a new material to your sphere:
 
 ![A screenshot showing the Material Properties tab and the New button highlighted.](images/new-material-property.png)
 
-**Tip**: You know that an object is selected when it has an orange outline.
+**Tip**: A selected object has an orange outline.
 
 --- /task ---
 
@@ -73,7 +73,7 @@ With the Sphere selected, go to the 'Material Properties' tab and click 'New' to
 
 --- task ---
 
-The Blender Shading editor lets you work with and view materials. 
+The Blender 'Shading editor' is used to design and view materials. 
 
 Go to the menu at the top of the screen and choose 'Shading'. This will open the Shading editor:
 
@@ -83,7 +83,7 @@ Go to the menu at the top of the screen and choose 'Shading'. This will open the
 
 --- task ---
 
-To focus entirely on the sphere, go to the 'Viewport Shading' dropdown and change the 'World Opacity' to `0`:
+To make it easier to focus on your material. Go to the 'Viewport Shading' dropdown. Change the 'World Opacity' to `0`:
 
 ![The 'Viewport Shading' dropdown has been selected and the 'World Opacity' has been changed to 0.](images/viewport-shading.png)
 
@@ -91,13 +91,13 @@ To focus entirely on the sphere, go to the 'Viewport Shading' dropdown and chang
 
 --- task ---
 
-Adjust the view of your sphere so that it is zoomed in and rotated up slightly so that you can see the shading:
+To see the shading effect, adjust the view of your sphere so that it is zoomed in and rotated up slightly:
 
 ![The sphere is larger and rotated up.](images/step2-output.PNG)
 
 --- collapse ---
 ---
-title: Changing your view in Blender
+title: Zoom and rotate in Blender
 ---
 
 **Tip:** To navigate Blender using a computer mouse with a middle scroll button:
