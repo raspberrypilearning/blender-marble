@@ -19,4 +19,5 @@ steps:
       questions: 3
       passing_score: 3
   - title: Upgrade your project
-  - title: What next?
+  - title: Use your material in Unity
+  - title: Use your material in Blender
