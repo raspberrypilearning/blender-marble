@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Experiment with other textures, colours and shapes.
+Experiment with other textures, colours, and shapes.
 </div>
 <div>
 ![](images/image.png){:width="300px"}
@@ -13,23 +13,23 @@ Experiment with other textures, colours and shapes.
 
 Add different textures. Experiment with texture order and joins to see what patterns you can create.
 
-You could try the **Wave texture**:
+You could try the **Wave Texture**:
 
-![A 3D sphere with colourful ColorRamp and Wave texture boxes.](images/wave-texture.png)
+![A 3D sphere with a multicoloured wave effect. In the material window, the Wave Texture box is joined to the ColorRamp box.](images/wave-texture.png)
 
-Or the **Brick texture**:
+Or the **Brick Texture**:
 
-![A 3D sphere with colourful ColorRamp and Brick texture boxes.](images/brick-texture.png)
+![A 3D sphere with a multicoloured brick effect. In the material window, the Brick Texture box is joined to the ColorRamp box.](images/brick-texture.png)
 
-Or both together!:
+Or both together!
 
-![A 3D sphere with colourful ColorRamp and both Wave and Brick texture boxes.](images/both-textures.png)
+![A 3D sphere with a multicoloured wave and brick effect. In the material window, from left to right, the Wave Texture box, Brick Texture box, and ColorRamp box are joined.](images/both-textures.png)
 
 --- /task ---
 
 --- task ---
 
-Don't forget to use **Bake** then save your images so that you can reuse them later.
+Remember to use **Bake** then save your images so that you can use them again later.
 
 --- /task ---
 

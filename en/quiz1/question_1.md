@@ -1,6 +1,6 @@
-## Reflection
+## Quick quiz
 
-Answer these three questions to get your ‘Blender - Add material effects to a marble’ badge.
+Answer the three questions to get your **Blender: Add material effects to a marble** badge.
 
 There are hints to guide you to the correct answer.
 
@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-Procedural textures are created by mathematical rules but why are they used in 3D modelling?
+Procedural textures are created by mathematical rules, but why are they used in 3D modelling?
 
 --- choices ---
 
@@ -22,7 +22,7 @@ Procedural textures are created by mathematical rules but why are they used in 3
 
   --- feedback ---
 
-  It's true that they are scalable so can be used on large or small objects without loss of quality - but that is not the only reason. 
+  It is true that they are scalable, so can be used on large or small objects without loss of quality, but that is not the only reason.
 
   --- /feedback ---
 
@@ -30,7 +30,7 @@ Procedural textures are created by mathematical rules but why are they used in 3
 
   --- feedback ---
 
-  It's true that they can cover any surface regardless of shape - but that is not the only reason. 
+  It is true that they can cover any surface regardless of shape, but that is not the only reason. 
 
   --- /feedback ---
 
@@ -38,7 +38,7 @@ Procedural textures are created by mathematical rules but why are they used in 3
 
   --- feedback ---
 
-  It's true that they can be quickly edited to change their whole appearance - but that is not the only reason. 
+  It is true that they can be quickly edited to change their whole appearance, but that is not the only reason. 
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ Procedural textures are created by mathematical rules but why are they used in 3
 
   --- feedback ---
 
-  That's correct. Procedural textures are scalable, can cover any surface and are easy to edit. 
+  That's right. Procedural textures are scalable, can cover any surface, and are easy to edit.
 
   --- /feedback ---
 
