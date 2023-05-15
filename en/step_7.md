@@ -5,7 +5,7 @@
 Experiment with other textures, colours, and shapes.
 </div>
 <div>
-![](images/image.png){:width="300px"}
+![](images/both-textures.png){:width="300px"}
 </div>
 </div>
 

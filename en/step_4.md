@@ -55,7 +55,7 @@ Click on the colour wheel to choose a different colour:
 
 **Choose** a new colour to replace the black colour.
 
-**Tip:** The colour black has RGB values of 0, 0, 0, so the colour wheel will be black. To see additional colours, click on the RGB values and drag your mouse to the right to increase the values:
+**Tip**: The colour black has RGB (Red, Green and Blue) values of 0, 0, 0 so the colour wheel will be black. To see additional colours, drag the RGB values to the right:
 
 ![An animation of using the slider to increase a colour value.](images/rgb-sliders.gif)
 
