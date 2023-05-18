@@ -3,8 +3,8 @@ title: "Blender: Add material effects to a marble"
 hero_image: images/banner.png
 description: Make a marble shape in Blender and add material effects to personalise it
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2021-03-26"
 steps:
   - title: You will make
