@@ -5,7 +5,7 @@
 legend: Question 2 of 3
 ---
 
-What is the process of taking information from a material to store in an image called in Blender? 
+In Blender, what is the process of taking information from a material to store in an image called?
 
 --- choices ---
 
@@ -13,7 +13,7 @@ What is the process of taking information from a material to store in an image c
 
   --- feedback ---
 
-    Not quite, you used a **Musgrave Texture** to customise your marble. Hint: What process did you use after you had finished your design? 
+    Not quite. You used a **Musgrave Texture** to customise your marble. **Hint:** What process did you use after you had finished your design? 
 
   --- /feedback ---
 
@@ -21,7 +21,7 @@ What is the process of taking information from a material to store in an image c
 
   --- feedback ---
 
-  That's right, the **Bake** process takes data and stores the result. In this case it takes data from the material and stores the result in an image.
+  That's right. The **Bake** process takes data and stores the result. In this case, it takes data from the material and stores the result in an image.
 
   --- /feedback ---
 
@@ -29,7 +29,7 @@ What is the process of taking information from a material to store in an image c
 
   --- feedback ---
 
-  Not quite, you used a **ColorRamp** to recolour textures by adding to and adjusting the colours used. Hint: What process did you use after you had finished your design? 
+  Not quite. You used a **ColorRamp** to recolour textures by adding to and adjusting the colours used. **Hint:** What process did you use after you had finished your design? 
 
   --- /feedback ---
 

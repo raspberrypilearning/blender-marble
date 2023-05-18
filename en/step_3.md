@@ -5,59 +5,59 @@
 Use **procedural textures** to design your marble material.
 </div>
 <div>
-![Step three output.](images/step3-output.png){:width="300px"}
+![The output of this step.](images/step3-output.png){:width="300px"}
 </div>
 </div>
 
 --- task ---
 
-Pull up the material window to give you a better view of the material settings:
+Pull the material window up to give you a better view of the material settings:
 
-![The materials pane is pulled up to reveal all of the material settings.](images/material-pull-up.gif)
+![An animation of the material window being pulled up to reveal all of the material settings.](images/material-pull-up.gif)
 
-**Tip**: Move your mouse the the edge of the window. The mouse pointer will change to a double arrow. Click and drag the window up. 
+**Tip:** Move your mouse to the edge of the window. The cursor will change to a double arrow. Click and drag the window up.
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**procedural texture**</span> is a texture that has been generated using a set of mathematical rules. Procedural textures are used to make high quality, easily editable, scalable textures that can be added to any surface and still fit together perfectly at the edges. 
+A <span style="color: #0faeb0">**procedural texture**</span> is a texture that has been generated using a set of mathematical rules. Procedural textures are used to make high-quality, easily editable, scalable textures that can be added to any surface and still fit together perfectly at the edges.
 </p>
 
-### Create a Noise texture
+### Create a Noise Texture
 
 --- task ---
 
-Go to 'Add' -> 'Texture' and select 'Noise Texture':
+Go to **Add** > **Texture** and select **Noise Texture**:
 
-![A texture is added using 'Add' > 'Texture' menu.](images/add-texture.png)
+![The Add menu open in the material window, with 'Texture' then 'Noise Texture' highlighted.](images/add-texture.png)
 
 --- /task ---
 
 --- task ---
 
-Place your new **Noise texture** box to the left of the 'Principled BSDF' box:
+Place your new **Noise Texture** box to the left of the **Principled BSDF** box:
 
-![The 'Noise Texture' box has been placed to the left of the 'Principled BSDF' box.](images/texture-left.PNG)
+![The Noise Texture box placed to the left of the Principled BSDF box in the material window.](images/texture-left.PNG)
 
-**Tip**: The new Noise texture box clings to your mouse until you have clicked it into place.
-
---- /task ---
-
---- task ---
-
-Join the **Noise texture** 'Color' to the **Principled BSDF** 'Base color':
-
-![A short animation showing the 'Color' property in the Texture box being dragged to join the 'Base color' property in the Principled BSDF box.](images/join.gif)
-
-**Tip**: Click and drag from the dot next to 'Color' to the dot next to 'Base color'.
+**Tip**: The new Noise Texture box clings to your cursor until you have clicked it into place.
 
 --- /task ---
 
 --- task ---
 
-Notice 👀 that the material on the sphere has now changed:
+Join the Noise Texture **Color** to the Principled BSDF **Base Color**:
 
-![A multi-coloured effect has been added to the sphere.](images/colour-sphere.PNG)
+![An animation of clicking and dragging from the dot next to the Color property in the Noise Texture box to the dot next to the Base Color property in the Principled BSDF box to create a join between them.](images/join.gif)
+
+**Tip:** Click and drag from the dot next to **Color** to the dot next to **Base Color**.
+
+--- /task ---
+
+--- task ---
+
+**Notice:** 👀 The material on the sphere has now changed:
+
+![The sphere with a multicoloured effect.](images/colour-sphere.PNG)
 
 --- /task ---
 
@@ -65,37 +65,37 @@ Notice 👀 that the material on the sphere has now changed:
 
 --- task ---
 
-A material can use more than one texture. 
+A material can use more than one texture.
 
-Go to 'Add' -> 'Texture' and this time select 'Musgrave Texture':
+Go to **Add** > **Texture** and this time select **Musgrave Texture**:
 
-![A texture is added using 'Add' > 'Texture' menu.](images/musgrave-texture.png)
-
---- /task ---
-
---- task ---
-
-Place your new **Musgrave texture** box to the left of the **Noise texture** box:
-
-![The 'Musgrave Texture' box has been placed to the left of the 'Noise texture' box.](images/musgrave-left.png)
+![The Add menu open, with 'Texture' then 'Musgrave Texture' highlighted.](images/musgrave-texture.png)
 
 --- /task ---
 
 --- task ---
 
-Join the **Musgrave texture** 'Height' to the **Noise Texture** 'Vector':
+Place your new **Musgrave Texture** box to the left of the **Noise Texture** box:
 
-![The 'Height' property in the Musgrave Texture box has been dragged to join the 'Vector' property in the Noise texture box.](images/join-textures.png)
-
-**Tip**: Click and drag from the dot next to 'Height' to the dot next to 'Vector'.
+![The Musgrave Texture box placed to the left of the Noise Texture box.](images/musgrave-left.png)
 
 --- /task ---
 
 --- task ---
 
-Notice 👀 that the material on the sphere has again changed:
+Join the Musgrave Texture **Height** to the Noise Texture **Vector**:
 
-![A new multi-coloured effect has been added to the sphere.](images/musgrave-sphere.png)
+![The Height property in the Musgrave Texture box joined to the Vector property in the Noise Texture box.](images/join-textures.png)
+
+**Tip:** Click and drag from the dot next to **Height** to the dot next to **Vector**.
+
+--- /task ---
+
+--- task ---
+
+**Notice:** 👀 The material on the sphere has changed again:
+
+![The sphere with a new multicoloured effect.](images/musgrave-sphere.png)
 
 --- /task ---
 
@@ -103,13 +103,13 @@ Notice 👀 that the material on the sphere has again changed:
 
 --- task ---
 
-Adjust the 'Vector' settings in the **Musgrave Texture** and **Noise texture** boxes until you are happy with the look of your marble:
+Adjust the **Vector** settings in the **Musgrave Texture** and **Noise Texture** boxes until you are happy with the look of your marble:
 
-![The vector settings on the 'Texture' box are highlighted.](images/vector-settings.png)
+![The Vector settings in the Musgrave Texture and Noise Texture boxes with example values.](images/vector-settings.png)
 
-**Tip**: To change the setting values, hold the left-mouse button down and drag your mouse to the left or right:
+**Tip:** To change the setting values, hold the left mouse button down and drag your mouse to the left or right:
 
-![The mouse is used to drag the vector settings from left to right and increase or decrease the value.](images/drag.gif)
+![An animation of clicking on a Vector setting and dragging to the left and right to increase and decrease the value.](images/drag.gif)
 
 --- /task ---
 

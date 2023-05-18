@@ -1,6 +1,6 @@
 ## Use your material in Unity
 
-The marble texture from this **Blender - Add material effects to a marble** project  can be exported and used in our [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity) path. 
+The marble texture from this **Blender: Add material effects to a marble** project can be exported and used in our [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity) path. 
 
 <mark>Embed webGL of Explore project with marble</mark>
 
@@ -8,25 +8,25 @@ The marble texture from this **Blender - Add material effects to a marble** proj
 
 --- task ---
 
-Unity projects already have a camera. Go to the **Scene Collection** pane and right-click on the 🎥 Camera then select 'Delete': 
+Unity projects already have a camera. In Blender, go to the Scene Collection pane and right-click on the 🎥 **Camera**, then select **Delete**: 
 
-![The 'Camera' is selected in the 'Scene Collection' pane. Right-click has been used on the camera to open a new menu. 'Delete' is highlighted.](images/delete-camera.png)
-
---- /task ---
-
---- task ---
-
-Unity projects already have a light source. Go to the **Scene Collection** pane and right-click on the 💡 Light then select 'Delete':
-
-![The 'Light' is selected in the 'Scene Collection' pane. Right-click has been used on the Light to open a new menu. 'Delete' is highlighted.](images/delete-light.png)
+![The Camera is highlighted in the Scene Collection pane. The Camera has been right-clicked to open a new menu. In this menu, 'Delete' is highlighted.](images/delete-camera.png)
 
 --- /task ---
 
 --- task ---
 
-If you haven't already saved your texture as an image, go to the drop-down with the three lines, choose 'Image' and then 'Save As':
+Unity projects already have a light source. In Blender, go to the Scene Collection pane and right-click on the 💡 **Light**, then select **Delete**:
 
-![A screenshot showing the menu with three lines leading to the 'Image' option with the 'Save As' option highlighted.](images/save-texture.png)
+![The Light is highlighted in the Scene Collection pane. The Light has been right-clicked to open a new menu. In this menu, 'Delete' is highlighted.](images/delete-light.png)
+
+--- /task ---
+
+--- task ---
+
+If you have not already saved your texture as an image, go to the Image Editor and open the drop-down menu (with the icon with three lines), and choose **Image**, then **Save As...**:
+
+![The Image Editor with the drop-down menu open, with 'Image' then 'Save As...' highlighted.](images/save-texture.png)
 
 --- /task ---
 
@@ -34,10 +34,10 @@ If you haven't already saved your texture as an image, go to the drop-down with 
 
 --- task ---
 
-Open your Unity project and from the **Assets** menu select **Import New Asset...**. Find your texture and Import it. 
+Open your Unity project. In the **Assets** menu, select **Import New Asset...**. Find your texture and import it.
 
-Your texture will appear in the **Project window**. You can drag it onto a 3D object in the Scene view or the Inspector use it in your Unity project:
+Your texture will appear in the Project window. You can drag it onto a 3D object in the Scene view or the Inspector window to use it in your Unity project:
 
-![The Unity editor with MyTexture asset shown in the Project window at the bottom of the editor and on a 3D object in the Scene view above.](images/unity-marble.png)
+![A screenshot of the Unity Editor with the MyTexture asset shown in the Project window at the bottom of the Unity Editor, and on a 3D object in the Scene view above it.](images/unity-marble.png)
 
 --- /task ---
