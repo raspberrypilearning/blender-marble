@@ -2,7 +2,13 @@
 
 The marble texture from this **Blender: Add material effects to a marble** project can be exported and used in our [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity) path. 
 
-<mark>Embed webGL of Explore project with marble</mark>
+--- no-print ---
+
+Control the camera by clicking the left mouse button and moving the mouse. Control the movement of the ball using <kbd>WASD</kbd> (or <kbd>ZQSD</kbd>) or the arrow keys. 
+
+<iframe allowtransparency="true" width="710" height="500" src="https://raspberrypilearning.github.io/unity-webgl/RainbowRun" scrolling="no" frameborder="0"></iframe>
+
+--- /no-print ---
 
 ### Use Blender to export your material
 

@@ -9,6 +9,8 @@ last_tested: "2021-03-26"
 steps:
   - title: You will make
   - title: Create a marble
+    completion:
+    - engaged
   - title: Add procedural textures
   - title: Choose your colours
   - title: Create an image of your texture
@@ -20,4 +22,8 @@ steps:
       passing_score: 3
   - title: Upgrade your project
   - title: Use your material in Unity
+    completion:
+    - internal
   - title: Use your material in Blender
+    completion:
+    - external
